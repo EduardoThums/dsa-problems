@@ -19,10 +19,14 @@ if __name__ == '__main__':
     problem_id, problem_name = problem_title.split('. ')
 
     problem_name = problem_name.lower().replace(' ', '_')
-
     file_name = f'{problem_id}_{problem_name}.{file_extension}'
 
     with open(f'leetcode/{file_name}', 'w'):
         pass
 
     print(f'{file_name} created!')
+
+    problem_link = problem_name.replace('_', '-')
+
+    print('README problem link:')
+    print(f'[{problem_title}](./leetcode/{file_name}) ([description](https://leetcode.com/problems/{problem_link}/))')
