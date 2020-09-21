@@ -1,19 +1,26 @@
 """
 Helper that creates file given LeetCode problem title
 Example:
-    >>> python create_leetcode_problem.py "1. My Problem"
+    >>> python create_leetcode_problem.py py "1. My Problem"
     1_my_problem.py created!
+
+    >>> python create_leetcode_problem.py java "1. My Problem"
+    1_my_problem.java created!
 """
 import sys
 
 if __name__ == '__main__':
-    problem_title = sys.argv[1]
+    file_extension = sys.argv[1]
+    problem_title = sys.argv[2]
+
+    if file_extension not in ['py', 'java']:
+        raise Exception('Invalid file extension')
 
     problem_id, problem_name = problem_title.split('. ')
 
     problem_name = problem_name.lower().replace(' ', '_')
 
-    file_name = f'{problem_id}_{problem_name}.py'
+    file_name = f'{problem_id}_{problem_name}.{file_extension}'
 
     with open(f'leetcode/{file_name}', 'w'):
         pass
