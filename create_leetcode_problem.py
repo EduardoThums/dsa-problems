@@ -13,7 +13,7 @@ if __name__ == '__main__':
     file_extension = sys.argv[1]
     problem_title = sys.argv[2]
 
-    if file_extension not in ['py', 'java']:
+    if file_extension not in ['py', 'java', 'cpp']:
         raise Exception('Invalid file extension')
 
     problem_id, problem_name = problem_title.split('. ')
