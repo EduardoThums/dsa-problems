@@ -14,3 +14,4 @@ List of all DSA problems that I have being solving since I started to study DSA.
 - [1512. Number of Good Pairs](./leetcode/1512_number_of_good_pairs.py) ([description](https://leetcode.com/problems/number-of-good-pairs/))
 - [1313. Decompress Run-Length Encoded List](./leetcode/1313_decompress_run-length_encoded_list.cpp) ([description](https://leetcode.com/problems/decompress-run-length-encoded-list/))
 - [1389. Create Target Array in the Given Order](./leetcode/1389_create_target_array_in_the_given_order.cpp) ([description](https://leetcode.com/problems/create-target-array-in-the-given-order/))
+- [1486. XOR Operation in an Array](./leetcode/1486_xor_operation_in_an_array.cpp) ([description](https://leetcode.com/problems/xor-operation-in-an-array/))
