@@ -15,3 +15,6 @@ List of all DSA problems that I have being solving since I started to study DSA.
 - [1313. Decompress Run-Length Encoded List](./leetcode/1313_decompress_run-length_encoded_list.cpp) ([description](https://leetcode.com/problems/decompress-run-length-encoded-list/))
 - [1389. Create Target Array in the Given Order](./leetcode/1389_create_target_array_in_the_given_order.cpp) ([description](https://leetcode.com/problems/create-target-array-in-the-given-order/))
 - [1486. XOR Operation in an Array](./leetcode/1486_xor_operation_in_an_array.cpp) ([description](https://leetcode.com/problems/xor-operation-in-an-array/))
+- [938. Range Sum of BST](./leetcode/938_range_sum_of_bst.py) ([description](https://leetcode.com/problems/range-sum-of-bst/))
+- [1290. Convert Binary Number in a Linked List to Integer](./leetcode/1290_convert_binary_number_in_a_linked_list_to_integer.py) ([description](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/))
+- [1295. Find Numbers with Even Number of Digits](./leetcode/1295_find_numbers_with_even_number_of_digits.py) ([description](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/))
