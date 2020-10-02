@@ -17,4 +17,6 @@ List of all DSA problems that I have being solving since I started to study DSA.
 - [1486. XOR Operation in an Array](./leetcode/1486_xor_operation_in_an_array.cpp) ([description](https://leetcode.com/problems/xor-operation-in-an-array/))
 - [938. Range Sum of BST](./leetcode/938_range_sum_of_bst.py) ([description](https://leetcode.com/problems/range-sum-of-bst/))
 - [1290. Convert Binary Number in a Linked List to Integer](./leetcode/1290_convert_binary_number_in_a_linked_list_to_integer.py) ([description](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/))
-- [1295. Find Numbers with Even Number of Digits](./leetcode/1295_find_numbers_with_even_number_of_digits.py) ([description](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/))
+- [1534. Count Good Triplets](./leetcode/1534_count_good_triplets.py) ([description](https://leetcode.com/problems/count-good-triplets/))
+- [709. To Lower Case](./leetcode/709_to_lower_case.py) ([description](https://leetcode.com/problems/to-lower-case/))
+- [1266. Minimum Time Visiting All Points](./leetcode/1266_minimum_time_visiting_all_points.py) ([description](https://leetcode.com/problems/minimum-time-visiting-all-points/))
