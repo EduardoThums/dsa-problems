@@ -22,3 +22,4 @@ List of all DSA problems that I have being solving since I started to study DSA.
 - [1266. Minimum Time Visiting All Points](./leetcode/1266_minimum_time_visiting_all_points.py) ([description](https://leetcode.com/problems/minimum-time-visiting-all-points/))
 - [1603. Design Parking System](./leetcode/1603_design_parking_system.py) ([description](https://leetcode.com/problems/design-parking-system/))
 - [1572. Matrix Diagonal Sum](./leetcode/1572_matrix_diagonal_sum.py) ([description](https://leetcode.com/problems/matrix-diagonal-sum/))
+- [206. Reverse Linked List](./leetcode/206_reverse_linked_list.py) ([description](https://leetcode.com/problems/reverse-linked-list/))
